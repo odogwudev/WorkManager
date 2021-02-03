@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+
+    <string name="fourPhase">%1$d / 4</string>
+
+    <string name="Preparation">Preparation</string>
+    <string name="Cooking">Cooking</string>
+    <string name="Packing">Packing</string>
+    <string name="Delivery">Delivery</string>
+    <string name="order_pizza">Order Food</string>
+
+</resources>
